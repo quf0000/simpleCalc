@@ -5,6 +5,9 @@ public class Calculation {
 	{
 		return l+ks;
 	}
-	
+	public int sub(int l, int ks)
+	{
+		return l-ks;
+	}
 	
 }
